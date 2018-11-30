@@ -12,6 +12,7 @@
         <module>zookeeper</module>
         <module>redis</module>
         <module>activemq</module>
+        <module>nginx</module>
     </modules>
 
     <dependencies>
