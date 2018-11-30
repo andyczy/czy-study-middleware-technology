@@ -9,6 +9,7 @@
         <module name="activemq" />
         <module name="nginx" />
         <module name="redis" />
+        <module name="solr" />
         <module name="zookeeper" />
       </profile>
     </annotationProcessing>

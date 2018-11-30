@@ -13,6 +13,7 @@
         <module>redis</module>
         <module>activemq</module>
         <module>nginx</module>
+        <module>solr</module>
     </modules>
 
     <dependencies>
